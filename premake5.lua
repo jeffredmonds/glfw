@@ -27,7 +27,7 @@ files
 
   "src/null_monitor.c",
   "src/null_window.c",
-  "src/null_joystick.c"s
+  "src/null_joystick.c"
 }
     
 filter "system:windows"
